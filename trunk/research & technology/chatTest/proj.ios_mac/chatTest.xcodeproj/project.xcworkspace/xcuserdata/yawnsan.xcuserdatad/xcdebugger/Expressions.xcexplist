@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HelloWorld::buttonChange(cocos2d::Ref*, cocos2d::ui::Widget::TouchEventType):HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "button -&gt; getTag()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

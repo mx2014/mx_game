@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AFF06DFB-5066-4F53-A03B-91357D73C4F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>chatTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>299EC37C-77B3-458E-AD16-B34DC8E65128</key>
+		<string>https://github.com/mx2014/mx_game.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/research &amp; technology/chatTest/proj.ios_mac/chatTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>299EC37C-77B3-458E-AD16-B34DC8E65128</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mx2014/mx_game.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>299EC37C-77B3-458E-AD16-B34DC8E65128</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>299EC37C-77B3-458E-AD16-B34DC8E65128</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mx_game</string>
+		</dict>
+	</array>
+</dict>
+</plist>
