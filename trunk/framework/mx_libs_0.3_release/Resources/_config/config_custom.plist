@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<dict>
+		<key>custom_image</key>
+		<dict>
+			<key>image_search_path</key>
+			<dict>
+				<key>_mdpi</key>
+				<array>
+					<string>test2</string>
+				</array>
+				<key>_hdpi</key>
+				<array/>
+			</dict>
+			<key>image_common_sync</key>
+			<array/>
+			<key>image_common_async</key>
+			<array>
+				<string>base2.png</string>
+				<string>DotaSnake.ExportJson</string>
+				<string>DotaSnake0.plist</string>
+				<string>DotaSnake0.png</string>
+			</array>
+			<key>image_layer_load</key>
+			<dict>
+				<key>GameLayer</key>
+				<dict>
+					<key>image_load_sync</key>
+					<array>
+						<string>s12.jpg</string>
+					</array>
+					<key>image_load_async</key>
+					<array>
+						<string>s33.jpg</string>
+					</array>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
