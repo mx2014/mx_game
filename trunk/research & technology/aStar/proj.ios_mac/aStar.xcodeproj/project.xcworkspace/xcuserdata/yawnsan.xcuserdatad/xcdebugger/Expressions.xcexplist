@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Main::back():Main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = " open.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Main::robotGo_1():Main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_origin -&gt; getX()">
+            </PersistentString>
+            <PersistentString
+               value = "open.size()">
+            </PersistentString>
+            <PersistentString
+               value = "_origin -&gt; getY()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
